@@ -23,4 +23,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: f1ec1c18708d63faaf996f0c844572e5
           CODE_STATS_USERNAME: WillyJL
-          STATS_TYPE: recent-xp
+          STATS_TYPE: level-xp
