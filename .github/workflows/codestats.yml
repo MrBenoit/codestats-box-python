@@ -21,6 +21,6 @@ jobs:
         run: python codestats_box.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: f1ec1c18708d63faaf996f0c844572e5
-          CODE_STATS_USERNAME: WillyJL
+          GIST_ID: dfadcc9aa361c8e2c9a50d3041d39c07
+          CODE_STATS_USERNAME: MrBenoit
           STATS_TYPE: level-xp
